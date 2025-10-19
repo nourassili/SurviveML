@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Why This Exists
+##  Why This Exists
 
 ML is *a lot*.
 
@@ -16,28 +16,28 @@ Whether you’re prepping for interviews, building your first model, or brushing
 
 ---
 
-## 🧠 What's Inside
+## What's Inside
 
 Each section is a standalone markdown file you can read in <10 minutes.
 
 | Area | Cheatsheet |
 |------|------------|
-| 📊 **Probability & Stats** | `cheatsheets/probability.md`  / `statistics.md` |
-| 🧮 **Linear Algebra for ML** | `cheatsheets/linear-algebra.md` |
-| 🧠 **Core ML Algorithms** | `cheatsheets/ml-algorithms.md` |
-| 🔧 **Optimization & Loss** | `cheatsheets/optimization.md` |
-| 🤖 **Deep Learning** | `cheatsheets/deep-learning.md` |
-| 🧪 **Evaluation & Metrics** | `cheatsheets/evaluation.md` |
-| 🧹 **Data Preprocessing** | `cheatsheets/data-preprocessing.md` |
-| 🧯 **Model Interpretability** | `cheatsheets/interpretability.md` |
-| 🏗️ **Production ML** | `cheatsheets/production-ml.md` |
-| 💼 **Interview Review** | `cheatsheets/interview.md` (high-yield review) |
+|  **Probability & Stats** | `cheatsheets/probability.md`  / `statistics.md` |
+|  **Linear Algebra for ML** | `cheatsheets/linear-algebra.md` |
+|  **Core ML Algorithms** | `cheatsheets/ml-algorithms.md` |
+|  **Optimization & Loss** | `cheatsheets/optimization.md` |
+|  **Deep Learning** | `cheatsheets/deep-learning.md` |
+|  **Evaluation & Metrics** | `cheatsheets/evaluation.md` |
+|  **Data Preprocessing** | `cheatsheets/data-preprocessing.md` |
+|  **Model Interpretability** | `cheatsheets/interpretability.md` |
+|  **Production ML** | `cheatsheets/production-ml.md` |
+|  **Interview Review** | `cheatsheets/interview.md` (high-yield review) |
 
 > Each cheatsheet is beginner-friendly but designed to scale up with you. Simple when you need it, deeper when you want it.
 
 ---
 
-## 📚 How to Use This Repo
+## How to Use This Repo
 
 - Open the folder [`cheatsheets/`](./cheatsheets/) and dive into any topic  
 - Use the [Interview Cheatsheet](./cheatsheets/interview.md) for job prep  
@@ -47,7 +47,7 @@ Each section is a standalone markdown file you can read in <10 minutes.
 
 ---
 
-## 🚀 Roadmap
+##  Roadmap
 
 - [ ] Visuals and diagrams for common concepts  
 - [ ] Flashcard-style quizzes (Markdown + Anki)  
@@ -57,7 +57,7 @@ Each section is a standalone markdown file you can read in <10 minutes.
 
 ---
 
-## 🤝 Contribute
+## Contribute
 
 Pull requests welcome!
 
@@ -68,11 +68,6 @@ If you:
 
 ...please fork and submit! Let’s build the ML resource we all wish we had.
 
----
-
-## 🧾 License
-
-MIT — use it, remix it, teach from it, share it.
 
 ---
 
