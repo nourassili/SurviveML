@@ -1,4 +1,4 @@
-# 🤖 ML Survival Cheatsheets
+# ML Survival Cheatsheets
 
 > Curated, no-fluff collection. From probability and stats to neural networks and model deployment.
 
