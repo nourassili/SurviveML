@@ -1,8 +1,8 @@
-## 🎯 Stats Survival Cheatsheet: The No-BS Edition
+##  Stats Survival Cheatsheet: The No-BS Edition
 
-### 1. 🧠 The Big Picture
+### 1.   Big Picture
 **What is stats really?**  
-> A toolbox to help you make decisions when you’re unsure about something — especially based on limited data.
+> A toolbox to help you make decisions when you’re unsure about something especially based on limited data.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 3. ⚙️ Key Concepts
+### 3. Key Concepts
 
 | Term                   | Translation                                |
 |------------------------|--------------------------------------------|
@@ -33,7 +33,7 @@
 
 ---
 
-### 4. 📈 Common Tests
+### 4. Common Tests
 
 | Test                  | When to Use                          | Notes                              |
 |-----------------------|--------------------------------------|------------------------------------|
@@ -46,7 +46,7 @@
 
 ---
 
-### 5. 🧪 How Hypothesis Testing Works
+### 5.  How Hypothesis Testing Works
 
 1. **Set up H₀** (null) and **H₁** (alternative)  
 2. Pick test + calculate **test statistic**  
@@ -60,7 +60,7 @@
 
 ---
 
-### 6. 🧠 How to Think About It
+### 6.  How to Think About It
 
 - **Small p-value = surprise** under the null → maybe H₀ is wrong  
 - **Big test statistic = big difference** relative to noise  
@@ -69,26 +69,13 @@
 
 ---
 
-### 7. 🧷 Bonus: Memory Hooks
+### 8. Common Mistakes
 
-| Concept         | Hook                                      |
-|-----------------|-------------------------------------------|
-| P-value         | "P is for surprise!"                      |
-| T-distribution  | "T is for Tiny sample"                    |
-| CI              | "Confidence Intervals = Crayons around the truth" |
-| Z-score         | "Z = Zoom out from your raw data"         |
+-  Confusing p-value with probability null is true  
+-  Saying "fail to reject" means null is true  
+-  Ignoring assumptions (e.g., normality)
 
 ---
-
-### 8. 💀 Common Mistakes
-
-- ❌ Confusing p-value with probability null is true  
-- ❌ Saying "fail to reject" means null is true  
-- ❌ Ignoring assumptions (e.g., normality)
-
----
-
-### 🧩 You got this.
 
 Stats is hard because it's **about the limits of knowledge.**  
 Now you're learning to reason under uncertainty, which is some PhD-level shit.
