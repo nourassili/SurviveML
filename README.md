@@ -1,6 +1,6 @@
 # ML Survival Cheatsheets
 
-> Curated, no-fluff collection. From probability and stats to neural networks and model deployment.
+> From probability and stats to neural networks and model deployment.
 
 ---
 
@@ -8,11 +8,11 @@
 
 ML is *a lot*.
 
-One moment you're tuning hyperparameters, the next you're trying to remember how Bayes' Theorem works, and suddenly you're debugging matrix shapes like it’s a full-time job.
+One moment you're tuning hyperparameters, the next you're trying to remember how Bayes' Theorem works, and suddenly you're debugging matrix shapes.
 
-This repo is your survival kit — a **modular, high-signal set of guides** for learners, builders, and career-switchers who want to *understand* what they're doing (not just run `.fit()` and pray).
+This repo is your survival kit if you want to *understand* what you're doing (not just run `.fit()` and pray).
 
-Whether you’re prepping for interviews, building your first model, or brushing up on forgotten theory — **this is for you**.
+Whether you’re prepping for interviews, building your first model, or brushing up on forgotten theory... **this is for you**.
 
 ---
 
@@ -47,16 +47,6 @@ Each section is a standalone markdown file you can read in <10 minutes.
 
 ---
 
-##  Roadmap
-
-- [ ] Visuals and diagrams for common concepts  
-- [ ] Flashcard-style quizzes (Markdown + Anki)  
-- [ ] PDF version (clean print layout)  
-- [ ] Jupyter + Python snippets per sheet  
-- [ ] GitHub Pages site via Quarto
-
----
-
 ## Contribute
 
 Pull requests welcome!
@@ -68,13 +58,5 @@ If you:
 
 ...please fork and submit! Let’s build the ML resource we all wish we had.
 
-
----
-
-## ✨ Acknowledgments
-
-Built with frustration, caffeine, and compassion for every student who googled *“what’s a p-value again?”* five minutes before a take-home test.
-
-> This stuff is hard. It is PhD level shit. You are doing great.
 
 ---
