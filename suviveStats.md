@@ -78,4 +78,4 @@
 ---
 
 Stats is hard because it's **about the limits of knowledge.**  
-Now you're learning to reason under uncertainty, which is some PhD-level shit.
+Now you're learning to reason under uncertainty, which is some PhD-level shit. But you got this!
